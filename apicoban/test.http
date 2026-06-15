@@ -1,0 +1,7 @@
+﻿POST https://localhost:7253/api/products
+Content-Type: application/json
+
+{
+    "name": "Iphone 16",
+    "price": 30000000
+}
